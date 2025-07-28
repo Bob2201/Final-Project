@@ -1,2 +1,2 @@
 sup sup
-sup
+supwget https://nvidia.box.com/shared/static/veuusshimq6pwvd62p9fresqhrjetson-containers run --name ollama $(autotag ollamarmfqz0e2f.mp4 -O pedestrians.mp4
